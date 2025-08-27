@@ -73,7 +73,7 @@ This POC reimplements the above loop in **browser JavaScript**, connected to pro
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/llm-agent-poc.git
+   git clone https://github.com/23f1000805/tds-bonus-project-LLM-Agent.git
    cd llm-agent-poc
    ```
 
